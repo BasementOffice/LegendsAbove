@@ -1,0 +1,3 @@
+C:\Users\Blue tail\Documents\Unreal Projects\LegendsAbove\Source\LegendsAbove\LegendsAbove.Build.cs
+C:\Users\Blue tail\Documents\Unreal Projects\LegendsAbove\Source\LegendsAbove.Target.cs
+C:\Users\Blue tail\Documents\Unreal Projects\LegendsAbove\Source\LegendsAboveEditor.Target.cs

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\LegendsAbove.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{6D888156-CC7A-4531-AE84-AB0585F75285}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\LegendsAbove.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\LegendsAboveEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{9A47CDB8-32AC-4C51-82F2-19E75C910FBE}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\LegendsAbove">
+			<UniqueIdentifier>{29E9936A-2E55-4AD1-9F98-C859A5C14FCB}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\LegendsAbove\LegendsAbove.Build.cs">
+			<Filter>Source\LegendsAbove</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\LegendsAbove\LegendsAbove.cpp">
+			<Filter>Source\LegendsAbove</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\LegendsAbove\LegendsAbove.h">
+			<Filter>Source\LegendsAbove</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\LegendsAbove\LegendsAboveCharacter.cpp">
+			<Filter>Source\LegendsAbove</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\LegendsAbove\LegendsAboveCharacter.h">
+			<Filter>Source\LegendsAbove</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\LegendsAbove\LegendsAboveGameMode.cpp">
+			<Filter>Source\LegendsAbove</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\LegendsAbove\LegendsAboveGameMode.h">
+			<Filter>Source\LegendsAbove</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
